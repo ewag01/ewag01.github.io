@@ -1,0 +1,41 @@
+body {
+	  background-color: rgb(253, 253, 253) ;
+	  font-family: "Verdana", sans-serif;
+	  font-size: 14px;
+	}
+
+h1, h2 {
+	  color: maroon;
+	  text-align: center;
+}
+
+h3 {
+	  color: maroon;
+
+}
+
+
+
+h5, h6 {
+    color: rgb(60,40,40);
+    font-style: italic;
+    font-size: 14px;
+}
+
+.wrapper {
+	width: 570px;
+	margin: 0 auto;
+        position: relative;
+}
+
+.figure-number {
+    display: none;
+}
+
+.largeimage {
+    position: relative;
+    right: 50%;
+    margin-right: 0%;
+    transform: translate(100, 0%) 
+    margin: auto;
+}
